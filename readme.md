@@ -1,5 +1,4 @@
 # 🧠 Number Guessing Game (CLI)
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge" />
@@ -13,14 +12,9 @@
 
 A fun CLI-based number guessing game built in Python — with colors, difficulty levels, a timer, and replay support. Simple, fast, and surprisingly addictive.
 
----
-
-## 🔥 Preview
-
-> 🎥 Replace this GIF link with your own terminal recording later.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="500" alt="Number Guessing Game Preview">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lobDVndG5kanUzZGF6bTR1MjRhNmZwcGx1dzVoMHd0b2lwMnF0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJ2a8MnK9MutrKSFNw/giphy.gif" width="500" alt="Number Guessing Game Preview">
 </p>
 
 
@@ -49,3 +43,6 @@ A fun CLI-based number guessing game built in Python — with colors, difficulty
    - Guess correctly → Win + see attempts + time
    - Run out of attempts → Lose and see the correct number
 7. You choose to play again or quit
+```
+
+
