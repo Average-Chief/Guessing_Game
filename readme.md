@@ -1,4 +1,15 @@
 # 🧠 Number Guessing Game (CLI)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLI-Interactive-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rich-Console%20Colors-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
+
+---
 
 A fun CLI-based number guessing game built in Python — with colors, difficulty levels, a timer, and replay support. Simple, fast, and surprisingly addictive.
 
@@ -12,19 +23,7 @@ A fun CLI-based number guessing game built in Python — with colors, difficulty
   <img src="https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif" width="500" alt="Number Guessing Game Preview">
 </p>
 
----
 
-## 📛 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLI-Interactive-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rich-Console%20Colors-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-</p>
-
----
 
 ## 🎮 Features
 
